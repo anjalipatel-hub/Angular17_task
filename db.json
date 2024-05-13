@@ -1,0 +1,104 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "student 1",
+      "age": 20,
+      "class": 1,
+      "isActive": true,
+      "address": "india"
+    },
+    {
+      "id": "e8f1",
+      "name": "www",
+      "email": "sadf@er5y",
+      "age": "3",
+      "class": 4,
+      "address": "India4r535",
+      "gender": "Male",
+      "isActive": false
+    },
+    {
+      "id": "fe4b",
+      "name": "www",
+      "email": "sadf@er5y",
+      "age": "3",
+      "class": 4,
+      "address": "India4r535",
+      "gender": "Male",
+      "isActive": true
+    },
+    {
+      "id": "b4dd",
+      "name": "upuu",
+      "email": "dsf@rdty",
+      "age": "54",
+      "class": 1,
+      "address": "India4444 vhjgjghj",
+      "gender": "Female",
+      "isActive": true
+    },
+    {
+      "id": "9790",
+      "name": "df",
+      "email": "sdf@xcfgcg",
+      "age": "234",
+      "class": 4,
+      "address": "India435",
+      "gender": "Male",
+      "isActive": true
+    },
+    {
+      "id": "04d5",
+      "name": "w543",
+      "email": "234@Qtfy",
+      "age": "4234",
+      "class": 5,
+      "address": "756756756756756",
+      "gender": "Male",
+      "isActive": true
+    },
+    {
+      "id": "4329",
+      "name": "gfh",
+      "email": "gfh@fgt",
+      "age": "145",
+      "class": 3,
+      "address": "ghjhj",
+      "gender": "Male",
+      "isActive": true
+    },
+    {
+      "id": "763e",
+      "name": "xv",
+      "email": "dsf@24fg5rser",
+      "age": "4",
+      "class": 2,
+      "address": "India343",
+      "gender": "Female",
+      "isActive": true
+    }
+  ],
+  "classes": [
+    {
+      "id": "1",
+      "name": 1
+    },
+    {
+      "id": "2",
+      "name": 2
+    },
+    {
+      "id": "3",
+      "name": 3
+    },
+    {
+      "id": "4",
+      "name": 4
+    },
+    {
+      "id": "5",
+      "name": 5
+    }
+  ]
+}
